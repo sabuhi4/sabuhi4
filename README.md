@@ -32,9 +32,17 @@ I build modern web apps with a strong focus on clean UI, product thinking, and p
 ## GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabuhi4&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Sabuhi GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuhi4&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabuhi4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sabuhi GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuhi4&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
+
+<p>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sabuhi4&theme=tokyonight&hide_border=true" alt="Sabuhi GitHub streak" />
+</p>
+
+## Highlights
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sabuhi4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect
 
