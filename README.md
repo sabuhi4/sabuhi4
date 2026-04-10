@@ -65,12 +65,12 @@ I have 3 years of experience building frontend applications with JavaScript, Rea
 ## GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabuhi4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="420" alt="Sabuhi GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuhi4&layout=compact&theme=tokyonight&hide_border=true" width="320" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabuhi4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&v=1" width="420" alt="Sabuhi GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuhi4&layout=compact&theme=tokyonight&hide_border=true&v=1" width="320" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sabuhi4&theme=tokyonight&hide_border=true" alt="Sabuhi GitHub streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sabuhi4&theme=tokyonight&hide_border=true&v=1" alt="Sabuhi GitHub streak" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ I have 3 years of experience building frontend applications with JavaScript, Rea
 ## Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabuhi4&theme=tokyo-night&hide_border=true&area=true" alt="Sabuhi activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabuhi4&theme=tokyo-night&hide_border=true&area=true&v=1" alt="Sabuhi activity graph" />
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@ I have 3 years of experience building frontend applications with JavaScript, Rea
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sabuhi4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sabuhi4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=1" alt="GitHub trophies" />
   </a>
 </p>
 
