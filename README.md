@@ -65,8 +65,8 @@ I have 3 years of experience building frontend applications with JavaScript, Rea
 ## GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabuhi4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sabuhi GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuhi4&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sabuhi4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="420" alt="Sabuhi GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabuhi4&layout=compact&theme=tokyonight&hide_border=true" width="320" alt="Top languages" />
 </p>
 
 <p align="center">
