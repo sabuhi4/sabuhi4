@@ -1,22 +1,21 @@
 # Sabuhi Guliyev
 
 <p align="center">
-  <strong>Front-End Web Developer</strong><br />
-  Building polished web products with React, Next.js, TypeScript, and strong UI thinking.
+  <strong>Business Analyst &amp; Software Developer</strong><br />
+  Building at the intersection of product thinking and software engineering.
 </p>
 
 <p align="center">
-  Currently building frontend products with real user value and exploring AI-assisted features that make apps more useful.
-  <br />
-  Open to collaborating on React, Next.js, TypeScript, and product-focused web experiences.
+  Interested in systems that bridge business requirements and technical implementation.<br />
+  Currently focused on full-stack development and business analysis.
 </p>
 
 <p align="center">
   <a href="https://github.com/sabuhi4">
     <img src="https://img.shields.io/badge/GitHub-sabuhi4-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://sabuhi-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/sabuhiguliyev4">
+    <img src="https://img.shields.io/badge/LinkedIn-sabuhiguliyev4-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <img src="https://img.shields.io/badge/Location-Boston,_MA-c2410c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
@@ -25,11 +24,11 @@
 
 ## About Me
 
-I have 3 years of experience building frontend applications with JavaScript, React, Next.js, and TypeScript. I care about clean interfaces, responsive UX, and turning product ideas into usable software.
+Business Analyst with a software engineering background. I understand both sides of the build — the requirements that drive a feature and the code that implements it.
 
-- Focused on modern frontend development and product-driven interfaces
-- Comfortable building with React, Next.js, TypeScript, Tailwind CSS, and Supabase
-- Exploring stronger full-stack workflows and AI-assisted product features
+- Background in product ownership and business analysis
+- Frontend and full-stack development with React, Next.js, TypeScript, and Node.js
+- Interested in the overlap between technical architecture and business outcomes
 
 ---
 
@@ -42,6 +41,7 @@ I have 3 years of experience building frontend applications with JavaScript, Rea
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=fff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=fff" alt="Supabase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" alt="Git" />
@@ -54,11 +54,8 @@ I have 3 years of experience building frontend applications with JavaScript, Rea
 
 | Project | What It Does |
 | --- | --- |
-| [interview-prep-app](https://github.com/sabuhi4/interview-prep-app) | Interview prep app for practice, organization, and focused study workflows |
-| [atlas-app](https://github.com/sabuhi4/atlas-app) | Event management platform with authentication, event creation, and RSVP flows |
-| [Evanto](https://github.com/sabuhi4/Evanto) | Mobile-first event discovery and booking platform built with React, TypeScript, and Supabase |
-| [youtube-income-calculator](https://github.com/sabuhi4/youtube-income-calculator) | Utility app for estimating YouTube revenue with a simple, accessible UI |
-| [pathlight](https://github.com/sabuhi4/pathlight) | Product-focused public project centered on user flow and application experience |
+| [sports-betting](https://github.com/sabuhi4/sports-betting) | Social sportsbook with real-time odds, parlay bet slip, and virtualized community chat |
+| [pathlight](https://github.com/sabuhi4/pathlight) | Goal-to-sprint planner — AI-generated 4-step plan from a single form submission |
 
 ---
 
@@ -100,6 +97,6 @@ I have 3 years of experience building frontend applications with JavaScript, Rea
 ## Connect
 
 <p>
-  <a href="https://sabuhi-portfolio.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sabuhiguliyev4">LinkedIn</a> •
   <a href="https://github.com/sabuhi4">GitHub</a>
 </p>
